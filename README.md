@@ -1,2 +1,2 @@
 # z-impressum
-Impressum / Imprint
+[Impressum](https://www.clipland.com/impressum) / Imprint
